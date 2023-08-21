@@ -9,7 +9,7 @@
 .logo-container {
   width: 100px;
   height: 90px;
-  background-image: url("file:///C:/Users/user/OneDrive/Pictures/Screenshots/Screenshot%202023-07-25%20230015.png");
+  background-image: url("file:///C:/Users/user/OneDrive/Desktop/t_emblemy1.github.io/Screenshot%202023-07-25%20230015.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -41,7 +41,7 @@
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("file:///C:/Users/user/OneDrive/Desktop/T-emblemy%20project/original-27257a7db863c5faa12ee855104c4c3f.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("file:///C:/Users/user/OneDrive/Desktop/t_emblemy1.github.io/original-27257a7db863c5faa12ee855104c4c3f.jpg");
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
